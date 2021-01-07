@@ -1,0 +1,6 @@
+framework module CentralizedKeyValue {
+    umbrella header "CentralizedKeyValue.h"
+
+    export *
+    module * { export * }
+}
